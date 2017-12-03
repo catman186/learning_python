@@ -1,2 +1,3 @@
-# learning_python
-My learning of python. Early programs etc.
+# Learning Python
+
+Collection of simple programs created for the purpose of learning basic Python skills.
